@@ -21,7 +21,7 @@ Ini dikerjakan menggunakan Python dan notebook Google Colab dengan dukungan GPU.
 
 ## Tujuan
 
-Tujuan project ini adalah membangun dan mengevaluasi model CNN yang mampu mengenali objek pada gambar CIFAR-10 melalui tahapan:
+Tujuan ini adalah membangun dan mengevaluasi model CNN yang mampu mengenali objek pada gambar CIFAR-10 melalui tahapan:
 
 1. Memuat dataset CIFAR-10.
 2. Melakukan preprocessing data.
@@ -44,7 +44,7 @@ Tujuan project ini adalah membangun dan mengevaluasi model CNN yang mampu mengen
 
 ## Dataset
 
-Project menggunakan dataset **CIFAR-10** yang tersedia melalui `tensorflow.keras.datasets.cifar10`.
+Pada Kesempatan ini menggunakan dataset **CIFAR-10** yang tersedia melalui `tensorflow.keras.datasets.cifar10`.
 
 Dataset memiliki 10 kelas gambar seperti yang telah dijelaskan pada bagian kategori. Data training dan testing dimuat langsung menggunakan fungsi `cifar10.load_data()`.
 
