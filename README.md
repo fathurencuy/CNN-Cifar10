@@ -1,7 +1,4 @@
-from pathlib import Path
-
-readme = """# CNN CIFAR-10 Image Classification
-
+#CNN - CIFAR-10
 ## Deskripsi
 
 Project ini merupakan implementasi **Convolutional Neural Network (CNN)** untuk melakukan klasifikasi gambar pada dataset **CIFAR-10** menggunakan **TensorFlow/Keras**.
