@@ -2,22 +2,22 @@
 
 ## Deskripsi
 
-Project ini merupakan implementasi **Convolutional Neural Network (CNN)** untuk melakukan klasifikasi gambar pada dataset **CIFAR-10** menggunakan **TensorFlow/Keras**.
+Implementasi **Convolutional Neural Network (CNN)** untuk melakukan klasifikasi gambar pada dataset **CIFAR-10** menggunakan **TensorFlow/Keras**.
 
 Model menerima citra berukuran **32 × 32 piksel dengan 3 channel warna (RGB)** dan mengklasifikasikan gambar ke dalam 10 kategori, yaitu:
 
-- Airplane
-- Automobile
-- Bird
-- Cat
-- Deer
-- Dog
-- Frog
-- Horse
-- Ship
-- Truck
+1. `airplane`
+2. `automobile`
+3. `bird`
+4. `cat`
+5. `deer`
+6. `dog`
+7. `frog`
+8. `horse`
+9. `ship`
+10. `truck`
 
-Project dikerjakan menggunakan Python dan notebook Google Colab dengan dukungan GPU.
+Ini dikerjakan menggunakan Python dan notebook Google Colab dengan dukungan GPU.
 
 ## Tujuan
 
